@@ -1,3 +1,7 @@
+// Autor: Rodrigo Ruan - Projeto Maratona de Programacao - UNIFEI
+// Data: 09/07/2025
+// https://codeforces.com/gym/103960/problem/I
+
 #include <bits/stdc++.h>
 
 using namespace std;
